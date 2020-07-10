@@ -11,7 +11,7 @@ Let's build the future
 - 🔭 I’m currently working with NodeJs and Angular
 - 🌱 I’m currently learning Game Development
 - 💬 Ask me about Web Development, Image Processing, Distributed Computing, and whatever more do you want.
-- ⚡ Main Technologies are Java, Angular, Javascript, Typescript, NodeJs, Python, HTML and CSS.
+- ⚡ Main Technologies are Java, Angular, Javascript, Typescript, NodeJs, Python, C++, HTML and CSS.
 - 🔥 Interest of the moment: Old computers/technologies, and Assembly languages.
 - 😄 Fun fact: I don't really like online games. 
 <!--
