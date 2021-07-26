@@ -11,7 +11,7 @@ Let's build the future
 - 🐱‍💻 I’m currently working with NodeJs and Angular
 - ⚡ Main Technologies are Java, Angular, Javascript, Typescript, NodeJs, Python, C++, HTML and CSS.
 - 👓Interest of the moment: Old computers/technologies, and Assembly languages.
-- 😄 Fun facts: I don't really like online games | Both Windows and Linux person. 
+- 😄 Fun facts: I don't really like online games. 
 <!--
 **JoaoPauloBorges/JoaoPauloBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
