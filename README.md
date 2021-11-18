@@ -7,16 +7,16 @@
 Father, engaged, tech lover, passionate about the beauty of Computer Science and what you can do with it. I like to learning about modern approaches to solve old and new problems. My main fields of interest are: Web Technologies, Distributed Computing, Game Development,  Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
 Let's build the future
 
-- 🎓 Computer Science Bachelor degree
-- 🐱‍💻 I’m currently working with NodeJs and Angular
-- ⚡ Main Technologies are Java, Angular, Javascript, Typescript, NodeJs, Python, C++, HTML and CSS.
+- 🎓 Bachelor's in Computer Science
+- 🐱‍💻 I’m currently working with NodeJs and React
+- ⚡ Main Technologies are NestJs, Angular, Javascript, Typescript, NodeJs, React, C++, HTML and CSS.
 - 👓Interest of the moment: Old computers/technologies, and Assembly languages.
 - 😄 Fun facts: I don't really like online games. 
 <!--
 **JoaoPauloBorges/JoaoPauloBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🎓 Computer Science Bachelor degree
+- 🎓 Computer Science Bachelor
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
