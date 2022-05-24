@@ -8,10 +8,10 @@ Father, engaged, tech lover, passionate about the beauty of Computer Science and
 Let's build the future
 
 - 🎓 Bachelor's in Computer Science
-- 🐱‍💻 I’m currently working with NodeJs and React
-- ⚡ Main Technologies are NestJs, Angular, Javascript, Typescript, NodeJs, React, C++, HTML and CSS.
-- 👓Interest of the moment: Old computers/technologies, and Assembly languages.
-- 😄 Fun facts: I don't really like online games. 
+- 🐱‍💻 I’m currently working with NestJs and React
+- ⚡ Main Technologies are NestJs, Angular, Typescript, Javascript, NodeJs, React, C++, HTML and CSS.
+- 👓 Interest of the moment: Computer Graphics.
+- 📫 How to reach me: joaopaulo.borges.gm@hotmail.com
 <!--
 **JoaoPauloBorges/JoaoPauloBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
