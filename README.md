@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulo.borges.gm@gmail.com)](mailto:joaopaulo.borges.gm@gmail.com)
 ### About me 🍻
 
-Father, engaged, tech lover, passionate about the beauty of Computer Science and what you can do with it. I like to learning about modern approaches to solve old and new problems. My main fields of interest are: Web Technologies, Distributed Computing, Game Development,  Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
+Father, engaged, tech lover, passionate about the beauty of Computer Science and technology. I like to whatch videos about how things work, the hirstory of lamps, how a car transmission system works or how to create a low pass filter using a fourier transform lol. My main fields of interest are: Web Technologies, Distributed Computing, Game Development,  Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
 Let's build the future
 
 - 🎓 Bachelor's in Computer Science
