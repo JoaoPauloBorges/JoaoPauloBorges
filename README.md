@@ -7,7 +7,7 @@
 Father, engaged, tech lover, passionate about the beauty of Computer Science and technology. I like to whatch videos about how things work, the hirstory of lamps, how a car transmission system works or how to create a low pass filter using a fourier transform lol. My main fields of interest are: Web Technologies, Distributed Computing, Game Development,  Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
 Let's build the future
 
-- 🎓 Bachelor's in Computer Science
+- 🎓 Bachelor's Degree in Computer Science
 - 🐱‍💻 I’m currently working with NestJs and React
 - ⚡ Main Technologies are NestJs, Angular, Typescript, Javascript, NodeJs, React, C++, HTML and CSS.
 - 👓 Interest of the moment: Computer Graphics.
