@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulo.borges.gm@gmail.com)](mailto:joaopaulo.borges.gm@gmail.com)
 ### About me 🍻
 
-Father, tech lover, passionate about the beauty of Computer Science and what we can do with it. In my free time i like to whatch videos about how things work, like the history of lamps, how a car transmission system works or how to create a low pass filter using a fourier transform. My main fields of interest are: Web Technologies, Distributed Computing, Game Development,  Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
+Father, tech lover, passionate about the beauty of Computer Science and what we can do with it. In my free time I like to whatch videos that gives me random knowledge about random things like the history of lamps, how a car transmission system works or how to create a low pass filter using a fourier transform. My main fields of interest are: Web Technologies, Distributed Computing, Game Development, Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
 Let's build the future
 
-- 🎓 Bachelor's Degree in Computer Science
-- 🐱‍💻 I’m currently working with NestJs and React
+- 🎓 Bachelor's Degree in Computer Science.
+- 🐱‍💻 I’m currently working with NestJs and Go.
 - ⚡ Main Technologies are NestJs, Angular, Typescript, Javascript, NodeJs, React, C++, HTML and CSS.
 - 👓 Interest of the moment: Computer Graphics.
 - 📫 How to reach me: joaopaulo.borges.gm@hotmail.com
