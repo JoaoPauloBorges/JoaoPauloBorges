@@ -2,9 +2,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoaoPauloBorges)](https://github.com/JoaoPauloBorges)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devborges/)](https://www.linkedin.com/in/devborges/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulo.borges.gm@gmail.com)](mailto:joaopaulo.borges.gm@gmail.com)
-### About me 🍻
+### About me
 
-Father, tech lover, passionate about the beauty of Computer Science and what we can do with it. In my free time I like to whatch videos that gives me random knowledge about random things like the history of lamps, how a car transmission system works or how to create a low pass filter using a fourier transform. My main fields of interest are: Web Technologies, Distributed Computing, Game Development, Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
+My main fields of interest are: Web Technologies, Distributed Computing, Game Development, Architecture and Software Design, Computer Vision/Digital Image Processing, Computer Graphics, and Machine Learning.
 Let's build the future
 
 - 🎓 Bachelor's Degree in Computer Science.
